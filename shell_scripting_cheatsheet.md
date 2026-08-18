@@ -1,6 +1,6 @@
 # Shell Scripting Cheat Sheet
 
-A comprehensive quick-reference guide for Linux administration, CI/CD automation, and Bash scripting.
+A comprehensive quick-reference guide for Linux administration, CI/CD automation , and Bash scripting.
 
 ---
 
